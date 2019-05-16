@@ -268,6 +268,10 @@ body {
     border-color : #dee2e6 #dee2e6 #f8f9fa !important;
 }
 
+.img-fix {
+    width:445;
+    height:445;
+}
 
 .parallax1 {
     background-image: url('https://cdn.citylab.com/static/a/citylab_connections/recycling/images/opener.jpg');
